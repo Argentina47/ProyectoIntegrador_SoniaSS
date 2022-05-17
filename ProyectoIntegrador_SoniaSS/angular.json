@@ -27,11 +27,11 @@
               "src/assets"
             ],
             "styles": [
-              "ProyectoIntegrador_SoniaSS/node_modules/bootstrap/dist/css/bootstrap.css"
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "ProyectoIntegrador_SoniaSS/node_modules/bootstrap/dist/js/bootstrap.js"
-            ],          },
+              "node_modules/bootstrap/dist/js/bootstrap.js"
+            ]          },
           "configurations": {
             "production": {
               "budgets": [
