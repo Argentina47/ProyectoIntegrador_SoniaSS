@@ -27,11 +27,10 @@
               "src/assets"
             ],
             "styles": [
-              "PortafolioSonia/ProyectoIntegrador_SoniaSS/ProyectoIntegrador_SoniaSS/node_modules/bootstrap/dist/css/bootstrap.css",
-              "src/styles.css"
+              "ProyectoIntegrador_SoniaSS/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "PortafolioSonia/ProyectoIntegrador_SoniaSS/ProyectoIntegrador_SoniaSS/node_modules/bootstrap/dist/js/bootstrap.js"
+              "ProyectoIntegrador_SoniaSS/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
