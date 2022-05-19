@@ -1,8 +1,8 @@
 .row{
-    padding: 20px
+    padding: 20px;
 }
-dv{
-    background-color: #a1b5cb;
+div{
+    background: #a1b5cb;
 }
 h1, h3{
     display: inline;
