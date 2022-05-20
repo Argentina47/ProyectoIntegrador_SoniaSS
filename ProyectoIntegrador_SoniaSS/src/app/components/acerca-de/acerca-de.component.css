@@ -13,21 +13,21 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 30%;
-        top: 630px;
+        top: 600px;
     } 
 }
 @media (max-width:575px){
     #perfilPhoto{
         position: absolute;
-        width: 10px;
+        width: 30px;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
-        left: 30%;
-        top:630px;
+        left: 33%;
+        top: 600px;
     }
     }
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 5%;
+    margin-top: 15%;
   }
