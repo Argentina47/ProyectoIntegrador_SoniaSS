@@ -12,7 +12,7 @@ div{
         width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
-        left: 30%;
+        left: 0;
         top: 600px;
     } 
 }
@@ -29,5 +29,5 @@ div{
 /*etiqueta nombre*/
 #nombre{
     font-weight: bold;
-    margin-top: 15%;
+    margin-top: 3%;
   }
